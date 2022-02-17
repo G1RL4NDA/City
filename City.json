@@ -1,0 +1,70 @@
+{
+    "people": [
+        {
+            "type": "Child",
+            "age": 10,
+            "gender": "man"
+        },
+        {
+            "type": "Child",
+            "age": 10,
+            "gender": "woman"
+        },
+        {
+            "type": "Teenager",
+            "age": 18,
+            "gender": "man"
+        },
+        {
+            "type": "Teenager",
+            "age": 18,
+            "gender": "woman"
+        },
+        {
+            "type": "Adult",
+            "age": 35,
+            "gender": "man"
+        },
+        {
+            "type": "Adult",
+            "age": 35,
+            "gender": "woman"
+        },
+        {
+            "type": "Elderly",
+            "age": 60,
+            "gender": "man"
+        },
+        {
+            "type": "Elderly",
+            "age": 60,
+            "gender": "woman"
+        }
+    ],
+    "buildings": [
+        {
+            "type": "House",
+            "length": 4,
+            "width": 1,
+            "height": 4
+        },
+        {
+            "type": "School",
+            "length": 3,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "type": "Hospital",
+            "length": 2,
+            "width": 1,
+            "height": 3
+        },
+        {
+            "type": "Office",
+            "length": 2,
+            "width": 2,
+            "height": 5
+        }
+    ]
+}
